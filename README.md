@@ -1,3 +1,2 @@
 # softuni_p_basics_python
-New life under the blue sky
-All is about to change
+all the tasks from programming basics with python SoftUni course
